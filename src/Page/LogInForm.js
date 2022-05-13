@@ -18,13 +18,13 @@ const LogInForm = () => {
                     <h2 className="text-3xl text-white" > Stay Connect with us</h2>
 
 
-                    <input type="text" placeholder="Email Address" class="input input-bordered input-sm w-full max-w-xs" />
+                    <input type="text" placeholder="Email Address" className="input input-bordered input-sm w-full max-w-xs" />
 
-                    <input type="text" placeholder="Subject" class="input input-bordered input-sm w-full max-w-xs" />
+                    <input type="text" placeholder="Subject" className="input input-bordered input-sm w-full max-w-xs" />
 
 
 
-                    <input type="text" placeholder="Message" class="input input-bordered input-lg w-full max-w-xs" />
+                    <input type="text" placeholder="Message" className="input input-bordered input-lg w-full max-w-xs" />
                     <PrimaryButton>Submit</PrimaryButton>
                 </div>
 

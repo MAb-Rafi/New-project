@@ -1,0 +1,105 @@
+[
+    {
+        "_id":1,
+        "name":"teeth otuihui",
+        "slots":[
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM"
+        ]
+    },
+    {
+        "_id":2,
+        "name":"teeth operation",
+        "slots":[
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM"
+        ]
+    },
+    {
+        "_id":3,
+        "name":"cosmetic",
+        "slots":[
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM"
+        ]
+    },
+    {
+        "_id":4,
+        "name":"teeth otuihui",
+        "slots":[
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM"
+        ]
+    },
+    {
+        "_id":5,
+        "name":"teeth otuihui",
+        "slots":[
+            
+        ]
+    },
+    {
+        "_id":6,
+        "name":"teeth otuihui",
+        "slots":[
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM"
+        ]
+    },
+    {
+        "_id":7,
+        "name":"teeth otuihui",
+        "slots":[
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM"
+        ]
+    },
+    {
+        "_id":8,
+        "name":"teeth otuihui",
+        "slots":[
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM"
+        ]
+    },
+    {
+        "_id":9,
+        "name":"teeth otuihui",
+        "slots":[
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM",
+            "8.00 AM - 8:30 AM"
+        ]
+    }
+]
