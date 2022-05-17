@@ -1,7 +1,10 @@
 import React from 'react';
 import { format } from 'date-fns';
+import { useAuthState } from 'react-firebase-hooks/auth';
+import auth from '../../firebase.init';
 const BookingModel = ({date, treatment,setTreatment}) => {
     const {_id,name,slots} = treatment;
+    const [user, loading, error] = useAuthState(auth);
     const handleBooking  =  event => {
         event.preventDefault();
         const slot = event.target.slot.value;
@@ -23,10 +26,10 @@ const BookingModel = ({date, treatment,setTreatment}) => {
  }
 
 </select>
-    <input type="text" name = 'name'placeholder="Type here" class="input input-bordered w-full max-w-xs" />
-    <input type="email" name= "email"placeholder="email address" class="input input-bordered w-full max-w-xs" />
+    <input type="text" name = 'name' disabled value={user?.displayName || ''} className="input input-bordered w-full max-w-xs" />
+    <input type="email" name= "email" disabled value={user?.email || ''} className="input input-bordered w-full max-w-xs" />
     <input type="text" name="phone" placeholder='phone Number' class="input input-bordered w-full max-w-xs" />
-    <input type="submit" value="submit" class="btn btn-secondary w-full max-w-xs" />
+    <input type="submit" value="submit" className="btn btn-secondary w-full max-w-xs" />
     </form>
     
   </div>
